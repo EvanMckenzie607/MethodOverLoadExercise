@@ -1,0 +1,15 @@
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\bin\Debug\net6.0\MethodOeverloadExercise.exe
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\bin\Debug\net6.0\MethodOeverloadExercise.deps.json
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\bin\Debug\net6.0\MethodOeverloadExercise.runtimeconfig.json
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\bin\Debug\net6.0\MethodOeverloadExercise.dll
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\bin\Debug\net6.0\MethodOeverloadExercise.pdb
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\obj\Debug\net6.0\MethodOeverloadExercise.csproj.AssemblyReference.cache
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\obj\Debug\net6.0\MethodOeverloadExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\obj\Debug\net6.0\MethodOeverloadExercise.AssemblyInfoInputs.cache
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\obj\Debug\net6.0\MethodOeverloadExercise.AssemblyInfo.cs
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\obj\Debug\net6.0\MethodOeverloadExercise.csproj.CoreCompileInputs.cache
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\obj\Debug\net6.0\MethodOeverloadExercise.dll
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\obj\Debug\net6.0\refint\MethodOeverloadExercise.dll
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\obj\Debug\net6.0\MethodOeverloadExercise.pdb
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\obj\Debug\net6.0\MethodOeverloadExercise.genruntimeconfig.cache
+C:\Users\615ev\Desktop\repos\MethodOeverloadExercise\MethodOeverloadExercise\obj\Debug\net6.0\ref\MethodOeverloadExercise.dll
